@@ -1,7 +1,7 @@
 PlayerDowngrader
 ================
 
-Download: (Jenkins)[http://ci.howaner.de/job/PlayerDowngrader/lastSuccessfulBuild/artifact/target/PlayerDowngrader.jar]
+Download: [Jenkins](http://ci.howaner.de/job/PlayerDowngrader/lastSuccessfulBuild/artifact/target/PlayerDowngrader.jar)
 
 Downgrades the player data (from a 1.8 server) to 1.7 at server start
 
