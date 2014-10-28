@@ -1,0 +1,6 @@
+name: PlayerDowngrader
+version: 1.0
+author: Howaner
+description: Downgrades the player data to 1.7 at server start
+main: de.howaner.PlayerDowngrader.PlayerDowngraderPlugin
+
